@@ -1,110 +1,20 @@
-# 🚀 Oneshot Earning Ecosystem
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
 
-A modern ecosystem landing page designed to present earning opportunities, platform features, and community benefits through a clean, responsive, and conversion-focused user experience.
+# Run and deploy your AI Studio app
 
-## 📖 Overview
+This contains everything you need to run your app locally.
 
-Oneshot Earning Ecosystem is a professionally designed landing page that communicates the value and structure of an earning ecosystem in a clear and engaging way. The project focuses on modern UI design, responsive layouts, and effective content organization to help users quickly understand the platform's offerings.
+View your app in AI Studio: https://ai.studio/apps/5bb4ff01-839c-4ab7-80a3-333726921f44
 
-Built with performance, accessibility, and user experience in mind, the website delivers a seamless experience across desktop, tablet, and mobile devices.
+## Run Locally
 
----
-
-## ✨ Features
-
-* 🎨 Modern and visually appealing user interface
-* 📱 Fully responsive design for all screen sizes
-* 🗂️ Clear information architecture and content hierarchy
-* 🎯 Conversion-focused sections and call-to-action elements
-* 🧭 Smooth navigation and user-friendly experience
-* ⚡ Optimized performance and fast loading times
-* 📲 Mobile-first development approach
-* 🛠️ Clean and maintainable code structure
-
----
-
-## 🎯 Project Goals
-
-The primary objectives of this project were:
-
-* 📢 Create a professional landing page experience
-* 🏗️ Present ecosystem information in a structured format
-* 🤝 Improve user engagement through modern design principles
-* 📱 Deliver a responsive and accessible web experience
-* 🚀 Build a scalable front-end foundation for future enhancements
-
----
-
-## 🌟 Key Highlights
-
-### 📱 Responsive Design
-
-The website adapts seamlessly across desktops, tablets, and smartphones, ensuring a consistent experience for all users.
-
-### ⚡ Performance Optimization
-
-Assets and layouts are optimized to provide fast loading speeds and smooth interactions.
-
-### 🎨 User Experience Focus
-
-Content sections are carefully structured to guide visitors through the platform while maintaining clarity and engagement.
-
-### 🧩 Modern UI Components
-
-The project incorporates clean typography, balanced spacing, and contemporary design patterns to create a polished user interface.
-
----
+**Prerequisites:**  Node.js
 
 
-## 🚀 Installation
-
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/your-username/oneshot-earning-ecosystem.git
-```
-
-### 2️⃣ Navigate to the Project Folder
-
-```bash
-cd oneshot-earning-ecosystem
-```
-
-### 3️⃣ Launch the Project
-
-Simply open:
-
-```bash
-index.html
-```
-
-in your preferred browser.
-
----
-
-## 🔮 Future Improvements
-
-* 🌙 Dark mode support
-* ✨ Enhanced animations and transitions
-* 📊 Dynamic content integration
-* 📝 CMS integration
-* 📈 Analytics dashboard
-* 🔗 Backend connectivity for user interactions
-
----
-
-## 👨‍💻 Author
-
-### Muhammad Abdullah
-
-**WordPress Developer & Front-End Developer**
-
-Passionate about building modern websites, landing pages, WordPress solutions, and Shopify storefront experiences.
-
----
-
-## 📜 License
-
-This project is available for educational, learning, and portfolio purposes.
-
-⭐ If you found this project useful, consider giving it a star!
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
