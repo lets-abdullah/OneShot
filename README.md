@@ -23,14 +23,6 @@ Built with performance, accessibility, and user experience in mind, the website 
 
 ---
 
-## 🧰 Technologies Used
-
-* 🌐 HTML5
-* 🎨 CSS3
-* ⚙️ JavaScript (ES6)
-
----
-
 ## 🎯 Project Goals
 
 The primary objectives of this project were:
